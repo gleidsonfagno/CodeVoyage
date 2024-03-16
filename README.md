@@ -39,7 +39,9 @@ npm install react@18.2.0
 npm install react-dom@18.2.0
 
 ```
-## Git e GitHub 
+
+## Git e GitHub
+
 ```bash
 # Inicializar um repositório Git
 git init
