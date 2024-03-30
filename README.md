@@ -8,7 +8,7 @@ Uma jornada emocionante e exploratória no mundo do código.
 
 ## Sobre
 
-Este repositório contém uma jornada exploratória pelo mundo do código, com foco em tecnologias como Next.js e os conceitos mais densos e menos explorados na tecnologia .
+Este repositório contém uma jornada exploratória pelo mundo do código, com foco em tecnologias como Next.js.
 
 ## Node.js
 
@@ -65,10 +65,15 @@ git push -u origin master
 Este site está hospedado na plataforma Vercel. Para hospedar seu próprio site, siga os passos abaixo:
 
 1. Crie uma conta gratuita na Vercel em [vercel.com](https://vercel.com/).
-2. Instale o Vercel CLI através do comando `npm install -g vercel`.
-3. Execute o comando `vercel login` e siga as instruções para fazer login na sua conta Vercel.
-4. No diretório do seu projeto, execute o comando `vercel --prod` para fazer o deploy do seu site.
 
 Acesse o site hospedado em: [CodeVoyage - Vercel](https://code-voyage.vercel.app/)
 
 Este README.md está organizado com as seções sobre o repositório, instruções para Node.js, Next.js, Git e GitHub, e informações sobre hospedagem do site. Espero que seja útil!
+
+## testes altomatizados
+
+[Jestjs](https://jestjs.io/pt-BR/docs/getting-started)
+
+```bash
+npm install --save-dev jest
+```
