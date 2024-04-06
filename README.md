@@ -76,4 +76,14 @@ Este README.md está organizado com as seções sobre o repositório, instruçõ
 
 ```bash
 npm install --save-dev jest
+
+npm run test
+
+npm run test:watch
+```
+
+```bash
+# packege.json
+"test": "jest",
+"test:watch": "jest --watch"
 ```
