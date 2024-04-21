@@ -87,3 +87,15 @@ npm run test:watch
 "test": "jest",
 "test:watch": "jest --watch"
 ```
+
+```bash
+psql --host=localhost --username=postgres --port=5432
+
+docker compose up -d --force-recreate
+
+<!-- deletar -->
+ docker compose down
+
+<!-- iniciar container -->
+docker compose -f infra/compose.yaml up
+```
